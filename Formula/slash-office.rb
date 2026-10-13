@@ -4,8 +4,8 @@
 class SlashOffice < Formula
   desc "Mac workspace for parallel Claude Code agents, with a little office view"
   homepage "https://github.com/egekolSlash/slash-office"
-  url "https://github.com/egekolSlash/slash-office/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "be1bc8b078a61acebf105ee1f902a1a4626dfeefceddf727c83c20355c0d07b2"
+  url "https://github.com/egekolSlash/slash-office/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "310c702472b96a1579c98139aa84b2f90e61e70582af608cbfda934da7b72a44"
   license "MIT"
   head "https://github.com/egekolSlash/slash-office.git", branch: "main"
 
